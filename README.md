@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Marcel
 and I come from the near from Stuttgart in Germany. At the moment I work by Zeiss SMT as a C++ Software Developer (3+ years of professional experience). As a hobby I'm programming and designing my own (web-)apps with Flutter, Dart, Firebase, Javascript/Typescript and Node.js. For examples of my work see my Github repositories.
 
-Skills: FLUTTER / DART / HTML / CSS / JS / TS / UI / UX / C++
+Skills: FLUTTER / DART / HTML / CSS / JS / TS / UI / UX / Java / C++
 
 - 🔭 I’m currently working on my own app see borsenanalystenApp repository. 
 
