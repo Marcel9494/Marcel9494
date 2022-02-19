@@ -8,8 +8,6 @@ Skills: FLUTTER / DART / HTML / CSS / JS / TS / UI / UX / Java / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcel9494)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcel-geirhos-544a56140/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15943768/marci)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcel9494&label=Profile%20views&color=0e75b6&style=flat" alt="marcel9494" /> </p>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marcel9494)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Marcel9494)  
