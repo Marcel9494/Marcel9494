@@ -4,7 +4,7 @@ and I come from the near from Stuttgart in Germany. I have study Informatics wit
 Skills: FLUTTER / DART / HTML / CSS / JS / TS / UI / UX / Java / C++
 
 - 🔭 I’m currently working on my own app see Geschenkliste and MatrjoschkaTicTacToe repository. 
-- 🌱 I’m currently learning Angular and Python.
+- 🌱 I’m currently learning Angular.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcel9494)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcel-geirhos-544a56140/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15943768/marci)  
 
