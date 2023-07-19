@@ -3,8 +3,9 @@ and I come from Germany. I have study Informatics with focus media informatics. 
 
 Skills: FLUTTER / DART / HTML / CSS / JS / TS / UI / UX / Java / C++
 
-- 🔭 I’m currently working on my own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently working on my own app see Haushaltsbuch für Investoren: https://github.com/Marcel9494/Haushaltsbuch
+- 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
+- 🌱 I’m currently learning Angular and improving my Flutter and Dart skills.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcel9494)
 
