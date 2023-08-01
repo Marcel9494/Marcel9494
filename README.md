@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Marcel
-and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++ Software Developer (4+ years of professional experience). As a hobby I'm programming and designing my own web- and mobile apps with Flutter, Dart, Firebase, Javascript/Typescript and Node.js. For examples of my work see my Github repositories.
+and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++ Software Developer (4+ years of professional experience). As a hobby I'm programming and designing my own web- and mobile apps with Flutter, Dart, Firebase, Javascript and Node.js. For examples of my work see my Github repositories.
 
-Skills: FLUTTER / DART / HTML / CSS / JS / TS / UI / UX / Java / C++
+Skills: FLUTTER / DART / HTML / CSS / JS / UI / UX / Java / C++
 
 - 🔭 I’m currently working on my own app see Haushaltsbuch für Investoren: https://github.com/Marcel9494/Haushaltsbuch
 - 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
