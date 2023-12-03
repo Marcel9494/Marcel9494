@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Marcel
-and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++ Software Developer (5+ years of professional experience). As a hobby I'm programming and designing my own web- and mobile apps with Flutter, Dart, Firebase, Javascript and Node.js. For examples of my work see my Github repositories.
+and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++/C# Software Developer (5+ years of professional experience). As a hobby I'm programming and designing my own web- and mobile apps with Flutter, Dart, Firebase, Javascript and Node.js. For examples of my work see my Github repositories.
 
 Skills: FLUTTER / DART / HTML / CSS / UI / UX / Python / C# / C++
 
