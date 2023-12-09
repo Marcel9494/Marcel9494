@@ -1,9 +1,11 @@
 ### Hi there 👋, my name is Marcel
 and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++/C# Software Developer (5+ years of professional experience). As a hobby I'm programming and designing my own mobile apps with Flutter and Dart. For examples of my work see my Github repositories.
 
-Programming Skills: Dart / C# / C++ / Python
-Framework Skills: Flutter / WPF / MFC
-Other Skills: Git / Github / XML / JSON / UI / UX
+<b>Programming Skills:</b> Dart / C# / C++ / Python
+
+<b>Framework Skills:</b> Flutter / WPF / MFC
+
+<b>Other Skills:</b> Git / Github / XML / JSON / UI / UX
 
 - 🔭 I’m currently working on my own app see Haushaltsbuch für Investoren: https://github.com/Marcel9494/Haushaltsbuch
 - 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
