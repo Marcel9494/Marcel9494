@@ -5,7 +5,7 @@ and I come from Germany. I have study Informatics with focus media informatics. 
 
 <b>Framework Skills:</b> Flutter / WPF / MFC
 
-<b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX
+<b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc
 
 - 🔭 I’m currently working on my own app see Haushaltsbuch für Investoren: https://github.com/Marcel9494/Haushaltsbuch
 - 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
