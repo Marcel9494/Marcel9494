@@ -5,11 +5,11 @@ and I come from Germany. I have study Informatics with focus media informatics. 
 
 <b>Framework Skills:</b> Flutter / WPF / MFC
 
-<b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc
+<b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc Statemanagement
 
 - 🔭 I’m currently working on my own app see Haushaltsbuch für Investoren: https://github.com/Marcel9494/Haushaltsbuch
 - 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
-- 🌱 I’m currently learning Python and improving my Flutter and Dart skills.
+- 🌱 I’m currently improving my Flutter and Dart skills.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcel9494)
 
