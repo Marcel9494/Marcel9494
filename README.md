@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Marcel
-and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++/C# Software Developer (5+ years of professional experience). As a hobby I'm programming and designing my own mobile apps with Flutter and Dart. For examples of my work see my Github repositories.
+and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a C++/C# Software Developer (6+ years of professional experience). As a hobby I'm programming and designing my own mobile apps with Flutter and Dart. For examples of my work see my Github repositories.
 
 <b>Programming Skills:</b> Dart / C# / C++
 
