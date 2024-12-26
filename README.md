@@ -7,7 +7,7 @@ and I come from Germany. I have study Informatics with focus media informatics. 
 
 <b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc Statemanagement
 
-- 🔭 I’m currently working on my own app see Haushaltsbuch für Investoren: https://github.com/Marcel9494/Haushaltsbuch
+- 🔭 I’m currently working on my own app see Moneybook: https://github.com/Marcel9494/Moneybook
 - 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
 - 🌱 I’m currently improving my Flutter and Dart skills.
 
