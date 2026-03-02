@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Marcel
 and I come from Germany. I have study Informatics with focus media informatics. At the moment I work by a international concern as a Software Developer (7+ years of professional experience). As a hobby I'm programming and designing my own mobile apps with Flutter and Dart. For examples of my work see my Github repositories.
 
-<b>Programming Skills:</b> Dart / C# / C++
+<b>Programming Skills:</b> Dart / C#
 
-<b>Framework Skills:</b> Flutter / WPF / MFC
+<b>Framework Skills:</b> Flutter / WPF
 
 <b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc Statemanagement
 
