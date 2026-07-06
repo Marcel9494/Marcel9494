@@ -5,13 +5,13 @@ and I come from Germany. I have study Informatics with focus media informatics. 
 
 <b>Framework Skills:</b> Flutter / WPF
 
-<b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc Statemanagement
+<b>Other Skills:</b> Git / Github / XML / JSON / Clean Architecture / UI / UX / Bloc Statemanagement / Supabase
 
 My app Moneybook on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.moneybook
 
 - 🔭 I’m currently working on new features of my own app see Moneybook Repo: https://github.com/Marcel9494/Moneybook
 - 🔭 My own app see Geschenkliste on the Google Play Store: https://play.google.com/store/apps/details?id=de.mdm.geschenkliste&gl=DE
-- 🌱 I’m currently improving my Flutter and Dart skills.
+- 🌱 I’m currently improving my Flutter, Dart, Bloc, UI/UX and Supabase skills.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcel9494)
 
